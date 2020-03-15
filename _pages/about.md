@@ -17,4 +17,4 @@ When I’m not designing, I am most likely traveling, experiencing new cultures,
 
 Here is  [my cv][1]
 
-[1]:{{ site.url }}/downloads/cv_Kateryna_Gapaliak.pdf
+[1]:/downloads/cv_Kateryna_Gapaliak.pdf
