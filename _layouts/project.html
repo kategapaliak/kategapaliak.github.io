@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<section class="intro">
+    <img src={{ page.featured_image }}>
+</section>
+
+<section class="single">
+    <div class="row" id="row">
+        <div class="col-md-8">
+            <h4><strong>Overview</strong></h4>
+            <br/>
+            {% assign overview = page.overview | split:"." %}
+            {% for text in overview %}
+                <p class="overview">{{ text }}.</p>
+            {% endfor %}
+        </div>
+        <div class="col-md-4">
+            <h4><strong>Details</strong></h4>
+                <p><strong>{{ page.role_name }}</strong>
+                <ul>
+                    {% for item in page.role_details %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                    <hr>
+                    {{ page.team_or_type }}
+                    <hr>
+                    {{ page.duration }}
+                    <hr>
+                    {% for tool in page.tools %}
+                        <li>{{ tool }}</li>
+                    {% endfor %}
+                </ul>
+        </div>
+    </div>
+    {{ page.content }}
+</section>
