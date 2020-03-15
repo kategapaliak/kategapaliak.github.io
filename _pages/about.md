@@ -9,7 +9,7 @@ featured_image: /images/000.jpg
 
 I was born in Ukraine and grew up in Lviv, where I studied architecture at National University “Lviv Polytechnik” Master of Architecture Specialization "Restoration Monumental Heritage".
 
-From 2008 to 2017, I’ve been working as an architect-restorator in Lviv. In 2016 ended a course of basic UI/UX and start my design journey not only in building structures. The same things that drew me to designing physical spaces eventually drew me to the digital world - a passion for user-centered design, an appreciation for aesthetics, and the desire to tackle complex problems. And as it turns out, there are many similarities between the two professions.
+From 2008 to 2017, I’ve been working as an architect in Lviv. In 2016 ended a course of basic UI/UX and start my design journey not only in building structures. The same things that drew me to designing physical spaces eventually drew me to the digital world - a passion for user-centered design, an appreciation for aesthetics, and the desire to tackle complex problems. And as it turns out, there are many similarities between the two professions.
 
 Since 2017 I’ve design user experience remotely part-time and bring up my daughter.
 
