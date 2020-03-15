@@ -2,7 +2,7 @@ site: Kate's Portfolio
 
 
 baseurl: "" 
-url: "https://kate.github.io" 
+url: "https://kategapaliak.github.io" 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 collections:
