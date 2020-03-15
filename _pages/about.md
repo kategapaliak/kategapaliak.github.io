@@ -15,4 +15,4 @@ Since 2017 I’ve design user experience remotely part-time and bring up my daug
 
 When I’m not designing, I am most likely traveling, experiencing new cultures, enjoy the urban and natural landscapes, running or sketch with a cup of coffee.
 
-Here is  [my cv]({{ site.url }}/pdf/cv.pdf)
+Here is  [my cv]({{ site.url }}/pdf/cv.pdf){:target="_blank"}
