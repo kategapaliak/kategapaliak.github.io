@@ -1,10 +1,10 @@
 ---
-title: 'Learning Path'
-subtitle: 'LearningPath is a smart education assistant which enables you to land your dream job.'
+title: 'Career Path'
+subtitle: 'CareerPath is a smart education assistant which enables to land a dream job.'
 date: 2019-10-29 00:00:00
-description: LearningPath is a smart education assistant which enables you to land your dream job.
-featured_image: '/images/learningpath/landing.png'
-overview: 'The primary goal of “Learning Path” project is to create a platform for job seekers where they can find actual examples of dream positions they are looking for and check how well their skill set matches the job requirements, identify skill gaps and provide learning programs to overcome the gaps. The platform also allows companies to open job positions and find perfect candidates. “Learning Path” also allows to build a bridge between job seekers and experienced professionals through the mentorship program.
+description: Education assistant which enables to land dream job.
+featured_image: '/images/learningpath/Cover.jpg'
+overview: 'The primary goal of “Career Path” project is to create a platform for job seekers where they can find actual examples of dream positions they are looking for and check how well their skill set matches the job requirements, identify skill gaps and provide learning programs to overcome the gaps. The platform also allows companies to open job positions and find perfect candidates. “Career Path” also allows to build a bridge between job seekers and experienced professionals through the mentorship program.
 '
 role_name: 'UI/UX Designer'
 role_details:
@@ -53,7 +53,7 @@ Teachers who work remotely
     <div class="col-md-12">
         <figure>
             <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/Landing_lp.png">
+                <img class="img-fluid" alt="" src="/images/learningpath/Landing.jpg">
             </div>
         </figure>
         <figcaption>Sample of the landing page (Webflow)</figcaption>
@@ -77,25 +77,9 @@ Teachers who work remotely
 
 
 ## Research
-I conducted user interviews with our target audience that had previously used one or more education platforms and subscribed to the job seekers platform. Here are some major takeaways:  
-<br/>
-- Education apps are extremely popular, but they do not provide exact information according to your job searching goals
-- Enrollment to various study programs on the different platforms is complex and difficult to handle
-- The progress in acquiring a particular degree does not guarantee that you fulfill all the requirements/skill sets needed for the real positions
-- A few interviewees mentioned the need for weekly to-do lists and information on what to expect during weekly sessions  
-- Recruiters can see your existing expertise but don't know what job position you are looking for  
-<br/>
-Thanks to the insights learned from our initial research, we created a System Requirement Chart to specify the priorities to guide us to our proposed solution. 
-
-
-
-### Information Architecture
-
-I joined the team when they passed the first stage of product development without the designer. 
-I had analyzed and tested out user flaws and found the platform totally unfriendly, starting with a confusing landing page, complicated registration steps and home page of the platform illustrating some data I have no idea what it is. 
-I started from identifying the user personas, their goals, made a research on education and recruiting services, analyzed the information architecture and design of the “Learning Path” platform, and created a new structure for the platform. 
-
-
+I joined the team when they passed the first stage of product development without the designer. I had analyzed and tested out user flaws and found the platform totally unfriendly, starting with a confusing landing page, complicated registration steps, and a Home page of the platform illustrating some data I have no idea what it is. 
+I started by identifying the user personas, and their goals, and made research on education and recruiting services.
+Analysis of the market and the competitors' product application content help me to identify and define business requirements.
 
 <div class="row">
     <div class="col-md-12">
@@ -108,11 +92,30 @@ I started from identifying the user personas, their goals, made a research on ed
     </div>
 </div>
 
+I conducted user interviews with our target audience that had previously used one or more education platforms and subscribed to the job seekers platform. Here are some major takeaways:  
+<br/>
+- Education apps are extremely popular, but they do not provide exact information according to your job searching goals
+- Enrollment to various study programs on the different platforms is complex and difficult to handle
+- The progress in acquiring a particular degree does not guarantee that you fulfill all the requirements/skill sets needed for the real positions
+- A few interviewees mentioned the need for weekly to-do lists and information on what to expect during weekly sessions  
+- Recruiters can see your existing expertise but don't know what job position you are looking for  
+<br/>
+Thanks to the insights learned from our initial research, I created a System Requirement Chart to specify the priorities that guided me to the proposed solution. 
+
+
+
+### Information Architecture
+
+I analyzed the information architecture and user flow of the “CareerPath” and based on my research created a new structure for the platform. 
+
+
+
+
 <div class="row">
     <div class="col-md-12">
         <figure>
             <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/AI_LP.png">
+                <img class="img-fluid" alt="" src="/images/learningpath/AI.jpg">
             </div>
         </figure>
         <figcaption>New site-map</figcaption>
@@ -136,65 +139,90 @@ Using atomic design principles, I created elements that would be repeatable acro
                 <img class="img-fluid" alt="" src="/images/learningpath/Wireframe.png">
             </div>
         </figure>
+        <figcaption>High-fidelity wireframes, building connection for interactive prototype, Figma workspace</figcaption>
     </div>
 </div>
 
 
-
 ### Visual Design
 
-The main goal of the current design stage was to test the existing user flow and content of the platform. 
-When the pros and cons of the current design approach were identified and I have proceeded to new design iteration.
+
+The main goal of the current design stage was to test the platform's existing user flow and content. 
+When the pros and cons of the current design approach were identified, I proceeded to a new design iteration.
 
 <div class="row">
     <div class="col-xl">
         <figure>
             <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/UI_LP_1.png">
+                <img class="img-fluid" alt="" src="/images/learningpath/Blog.jpg">
             </div>
         </figure>
+        <figcaption>Mockup of the Blog page</figcaption>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-xl">
+        <figure>
+            <div class="gallery">
+                <img class="img-fluid" alt="" src="/images/learningpath/SignUp.jpg">
+            </div>
+        </figure>
+        <figcaption>Mockup of the Registration page</figcaption>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-xl">
+        <figure>
+            <div class="gallery">
+                <img class="img-fluid" alt="" src="/images/learningpath/JobPosting.jpg">
+            </div>
+        </figure>
+        <figcaption>Mockup of the Job Posting page</figcaption>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl">
+        <figure>
+            <div class="gallery">
+                <img class="img-fluid" alt="" src="/images/learningpath/Quest_Match.jpg">
+            </div>
+        </figure>
+        <figcaption>Fragment of Onboarding Flow and Illustration of how Users' skill set match with selected Job Position</figcaption>
+    </div>
+</div>
+
+
 
 <div class="row">
     <div class="col-md-6">
         <figure>
             <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/profile.png">
+                <img class="img-fluid" alt="" src="/images/learningpath/Dashboard.jpg">
             </div>
         </figure>
+        <figcaption>Mockup of the Users’ Dashboard page</figcaption>
     </div>
     <div class="col-md-6">
         <figure>
             <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/profile_1.png">
-                <!-- <img class="img-fluid" alt="" src="/images/learningpath/visual_design_2.png" style="height: 20em; object-fit: contain;"> -->
+                <img class="img-fluid" alt="" src="/images/learningpath/LP.jpg">
+                <!-- <img class="img-fluid" alt="" src="/images/learningpath/Dashboard.jpg" style="height: 20em; object-fit: contain;"> -->
             </div>
         </figure>
+        <figcaption>Mockup of the Road Map of Learning process page</figcaption>
     </div>
 </div>
 
-<div class="row">
-    <div class="col-md-6">
-        <figure>
-            <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/Position_user_Search.png">
-            </div>
-        </figure>
-    </div>
-    <div class="col-md-6">
-        <figure>
-            <div class="gallery">
-                <img class="img-fluid" alt="" src="/images/learningpath/Position_user_Goal.png">
-            </div>
-        </figure>
-    </div>
-</div>
 
 
 
 ## Outcomes & Lessons Learned
+ 
 
-We finally launched our project in 3 month  
-
-Next time I would do more research before the development process starts: I will conduct competitor analysis, clearly identify the MVP and its functions, the goals of the project, and at which stage they can be considered as achieved, will prepare a detailed plan, and track the progress. I will emphasize the unique selling proposition (USP). I will thoroughly explain to the development team and to the first users what a project is about, because one of the biggest problems I have encountered during my work was unclear understanding of project mission and vision.
+Next time I would do more research before the development process starts: I will conduct competitor analysis, clearly identify the MVP and its functions, the goals of the project, and at which stage they can be considered as achieved, will prepare a detailed plan, and track the progress. I will emphasize the unique selling proposition (USP). 
+Before immersing yourself in the user experience design, it is important to discuss in detail with the stakeholders and development team what a project is and make sure everyone has a clear understanding of the project's mission and vision. One of the biggest problems I faced in my work was the different understanding of the product by the developers and founders and the lack of quantitative and qualitative metrics to set the right priorities, and long-term strategy.
